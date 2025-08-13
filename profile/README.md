@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile/image.png" alt="Agentic AI @ Purdue" height="84" />
+  <img src="image.png" alt="Agentic AI @ Purdue" height="84" />
   <h2>Agentic AI @ Purdue</h2>
   <p><em>Building the future of AI agents — together.</em></p>
 

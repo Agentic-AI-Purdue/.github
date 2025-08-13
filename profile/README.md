@@ -32,9 +32,9 @@
   </a>
 
   <br/>
-  <a href="/join">Join</a>
+  <a href="https://agentic-ai-purdue.github.io/join/">Join</a>
   ·
-  <a href="/projects">Projects</a>
+  <a href="https://agentic-ai-purdue.github.io/projects/">Projects</a>
   ·
   <a href="https://github.com/Agentic-AI-Purdue">GitHub</a>
 </div>

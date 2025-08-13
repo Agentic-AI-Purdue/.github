@@ -73,7 +73,7 @@ We keep it practical—from prompt strategies and tool‑use to retrieval, workf
 - Featured: AI Resume Reviewer — automated, actionable resume feedback for Purdue students  
   Tech: React, Python, OpenAI API, FastAPI  
   Source: `https://github.com/Agentic-AI-Purdue`  
-Explore more: [/projects](/projects)
+Explore more: `https://agentic-ai-purdue.github.io/projects/`
 
 ### 📊 Snapshot
 - **5+** projects in motion
@@ -88,6 +88,6 @@ Explore more: [/projects](/projects)
 
 ### 🙌 Join us
 Hungry, humble, and hands‑on? You’ll fit right in.  
-- Apply: [/join](/join)  
-- Questions: [/join#contact](/join#contact)  
+- Apply:  `https://agentic-ai-purdue.github.io/join/`
+- Questions: contact@agenticai.club
 - Code: `https://github.com/Agentic-AI-Purdue`
